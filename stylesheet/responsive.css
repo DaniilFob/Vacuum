@@ -1,6 +1,6 @@
 /* Стили для Desktop (1920x1080 Full HD) */
 @media screen and (min-width: 1920px) {
-    /* Ваши стили для разрешения 1920x1080 */
+   
     
     .t2 {
         font-size: 16px;
@@ -22,7 +22,7 @@
 
 /* Стили для WXGA+ (1440x900) */
 @media screen and (max-width: 1440px) {
-    /* Ваши стили для разрешения 1440x900 */
+    
 
     .t2 {
         font-size: 16px;
@@ -56,7 +56,7 @@
 
 /* Стили для WXGA (1366x768) */
 @media screen and (max-width: 1366px) {
-    /* Ваши стили для разрешения 1366x768 */
+    
     .t2 {
         color: white;
         margin-top: -280px;
@@ -76,14 +76,14 @@
 
 /* Стили для XGA (1024x768) */
 @media screen and (max-width: 1024px) {
-    /* Ваши стили для разрешения 1024x768 */
+    
 }
 
 
 
 /* Стили для Tablet XGA (768x1024) */
 @media screen and (max-width: 768px) {
-    /* Ваши стили для разрешения 768x1024 */
+    
 }
 
 
