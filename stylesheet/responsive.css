@@ -1,0 +1,101 @@
+/* Стили для Desktop (1920x1080 Full HD) */
+@media screen and (min-width: 1920px) {
+    /* Ваши стили для разрешения 1920x1080 */
+    
+    .t2 {
+        font-size: 16px;
+        margin-left: 1720px;
+    }
+    
+    .spooky2 {
+        margin-left: 260px;
+        scale: 120%;
+    }
+
+    .spooky3 {
+        margin-left: 1500px;
+    }
+
+}
+
+
+
+/* Стили для WXGA+ (1440x900) */
+@media screen and (max-width: 1440px) {
+    /* Ваши стили для разрешения 1440x900 */
+
+    .t2 {
+        font-size: 16px;
+        margin-left: 1240px;
+    }
+    
+    .spooky2 {
+        margin-left: 200px;
+    }
+
+    .spooky3 {
+        margin-left: 980px;
+    }
+
+    .spooky7 {
+        scale: 60% ;
+        margin-top: -400px;
+        margin-left: 740px;
+    }
+
+    .footer-text {
+        font-size: 20px;
+    }
+
+    .block4 {
+    font-size: 90px;
+    }
+    
+
+}
+
+/* Стили для WXGA (1366x768) */
+@media screen and (max-width: 1366px) {
+    /* Ваши стили для разрешения 1366x768 */
+    .t2 {
+        color: white;
+        margin-top: -280px;
+        margin-left: 3400px;
+    }
+
+
+    .spooky7 {
+        scale: 40% ;
+        margin-top: -400px;
+        margin-left: 740px;
+    }
+
+}
+
+
+
+/* Стили для XGA (1024x768) */
+@media screen and (max-width: 1024px) {
+    /* Ваши стили для разрешения 1024x768 */
+}
+
+
+
+/* Стили для Tablet XGA (768x1024) */
+@media screen and (max-width: 768px) {
+    /* Ваши стили для разрешения 768x1024 */
+}
+
+
+
+/* Стили для Mobile Android nHD (360x640) */
+@media screen and (max-width: 360px) {
+    /* Ваши стили для разрешения 360x640 */
+
+    .container {
+        display: flex;
+        justify-content: space-between;
+        padding: -120px -900px;
+      }
+
+}
