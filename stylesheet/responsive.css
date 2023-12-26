@@ -90,8 +90,7 @@
 
 /* Стили для Mobile Android nHD (360x640) */
 @media screen and (max-width: 360px) {
-    /* Ваши стили для разрешения 360x640 */
-
+   
     .container {
         display: flex;
         justify-content: space-between;
